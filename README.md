@@ -1,15 +1,9 @@
 Blackbaud-CRM-Manipulate-Batch-With-AppFxWebService
 ===================================================
 
-Placeholder for overview
-
 ## What You Will Build ##
 
-Placeholder for description
-
-## Prerequisites ##
-
-Placeholder for requirements
+This customization demonstrates how to use an Infinity Web API to create a batch from an existing batch template and then add rows to the new batch. 
 
 ##Resources##
 * See the [Blackbaud CRM Read Me](https://github.com/blackbaud-community/Blackbaud-CRM/blob/master/README.md). 
